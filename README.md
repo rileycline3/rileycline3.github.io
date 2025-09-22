@@ -1,3 +1,4 @@
+rileycline3.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -149,6 +150,35 @@
       My goal is to be part of that system and help it grow with <em>scalability</em>.
     </p>
   </section>
+
+  <section id="vocab">
+    <h2>Unit 1 & 2 Vocabulary</h2>
+    <div class="vocab-list">
+      <p><strong>Bit:</strong> A binary digit, 0 or 1.</p>
+      <p><strong>Byte:</strong> A sequence of 8 bits.</p>
+      <p><strong>Roundoff:</strong> Error from limited precision.</p>
+      <p><strong>Analog Data:</strong> Smooth, continuous values.</p>
+      <p><strong>Lossless:</strong> Compression with no lost data.</p>
+      <p><strong>Lossy:</strong> Compression that removes data.</p>
+      <p><strong>Metadata:</strong> Data about data.</p>
+      <p><strong>Computing Device:</strong> Runs programs.</p>
+      <p><strong>Computer Network:</strong> Linked devices.</p>
+      <p><strong>Path:</strong> Connections from sender to receiver.</p>
+      <p><strong>Protocol:</strong> Rules for communication.</p>
+      <p><strong>Fault Tolerant:</strong> Keeps working if parts fail.</p>
+      <p><strong>Scalability:</strong> Ability to grow.</p>
+      <p><strong>Bandwidth:</strong> Transmission capacity.</p>
+      <p><strong>URL:</strong> Easy-to-remember web address.</p>
+      <p><strong>IP:</strong> Assigns addresses/routes data.</p>
+      <p><strong>TCP:</strong> Reliable, checked delivery.</p>
+      <p><strong>UDP:</strong> Faster, lightweight delivery.</p>
+      <p><strong>Packets:</strong> Data split into chunks.</p>
+      <p><strong>Routers:</strong> Forward data paths.</p>
+      <p><strong>DNS:</strong> Translates domain to IP.</p>
+      <p><strong>HTTP:</strong> Webpage protocol.</p>
+      <p><strong>WWW:</strong> System of linked pages.</p>
+    </div>
+
     <h3>Visuals</h3>
     <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" alt="Cartoon data graphic">
     <img src="https://cdn-icons-png.flaticon.com/512/3069/3069186.png" alt="Cartoon network graphic">
